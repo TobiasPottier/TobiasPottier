@@ -1,7 +1,7 @@
 <h1 align="center"><b>I'm Tobias</b></h1>
 
 <p align="center">
-  AI dev student pursuing a Bachelor in Howest University of Applied Sciences, Kortrijk Belgium. <br/>
+  AI dev student pursuing a Bachelor in AI at Howest University of Applied Sciences, Kortrijk Belgium. <br/>
 </p>
 
 ---
