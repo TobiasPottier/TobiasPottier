@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center"><b>I'm Tobias</b></h1>
 
-<!--
-**TobiasPottier/TobiasPottier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  AI dev student pursuing a Bachelor in Howest University of Applied Sciences, Kortrijk Belgium. <br/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Studying Artificial Intelligence in Belgium  
+- 💬 I value simplicity, efficiency, and clean code
+
+### 🛠️ Recent Creations
+
+
+- **LMR – Live Movie Recommendation**  
+
+- **Custom Neural Network Learns MNIST**  
+
+- **Flappy Bird – The Reinforced Way**  
+
+- **AI Plays Tetris**  
+
+- **Spam/Ham Detection**  
+
+---
+
+<p align="center">
+  – Bias
+</p>
