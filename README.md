@@ -24,6 +24,8 @@
 
 - **Spam/Ham Detection**  
 
+- **Post Bariatric Surgery Prediction**
+
 ---
 
 <p align="center">
