@@ -1,4 +1,4 @@
-<h1 align="center"><b>I'm Tobias</b></h1>
+<h1 align="center"><b>I'm <a href="https://tpbias.com">Tobias</a></b></h1>
 
 <p align="center">
   AI dev student pursuing a Bachelor in AI at Howest University of Applied Sciences, Kortrijk Belgium. <br/>
