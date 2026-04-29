@@ -13,6 +13,7 @@
 
 ### 🛠️ Recent Creations
 
+- **Trackmeta - macOS menu bar app that tracks Claude Max usage limits**
 
 - **LMR – Live Movie Recommendation**  
 
