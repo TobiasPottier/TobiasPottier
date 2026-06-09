@@ -8,6 +8,7 @@
   <a href="https://www.tpbias.com">Portfolio</a> ·
   <a href="https://www.tpbias.com/resume-us.pdf">Resume</a> ·
   <a href="https://aigenize.com">AIGENIZE</a> ·
+  <a href="https://orbit-app.dev">Orbit</a> ·
   <a href="https://linkedin.com/in/tobias-pottier31415">LinkedIn</a> ·
   <a href="mailto:bias72tp@gmail.com">Email</a>
 </p>
@@ -16,10 +17,11 @@
 
 I study Creative Tech & AI at Howest and spend most of my time turning rough AI ideas into working software. The pattern is pretty simple: understand the model well enough, wrap it in a clean interface, then ship something a real person can use.
 
-Recent work includes shipping AI software for the Gates Foundation, a semester abroad at George Mason, and building AIGENIZE as a two-week custom software sprint studio.
+Recent work includes shipping AI software for the Gates Foundation, a semester abroad at George Mason, building AIGENIZE as a two-week custom software sprint studio, and shipping Orbit — a native macOS app that renders Claude Code agent output as live visual cards on a canvas.
 
 ## Worth opening first
 
+- [Orbit](https://orbit-app.dev) — a native macOS app that renders Claude Code and Codex interactions as structured visual cards on a living canvas. Privacy-first, runs entirely locally, built in pure AppKit. Currently in private beta.
 - [TrackMeta](https://github.com/TobiasPottier/TrackMeta) — a macOS menu bar app for Claude Max usage tracking and session control.
 - [LMR — Live Movie Recommendation](https://github.com/TobiasPottier/LMR---Live-Movie-Recommendation) — a full-stack movie recommender using content-based filtering, MovieLens, TMDB, MongoDB, and a web UI.
 - [Custom Neural Network Learns MNIST](https://github.com/TobiasPottier/Custom-Neural-Network-Learns-MNIST) — a neural network written from scratch, then hooked up to live drawing inference.
